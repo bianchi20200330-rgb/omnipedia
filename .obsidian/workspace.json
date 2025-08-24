@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/CS_ Prototyper et tester les composantes d'un ENA.md",
-                "mode": "preview",
+                "file": "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/SF_ Spécialiser MIENA pour les EIA.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CS_ Prototyper et tester les composantes d'un ENA"
+              "title": "SF_ Spécialiser MIENA pour les EIA"
             }
           }
         ]
@@ -216,9 +216,9 @@
   },
   "active": "ad2f8da720455a0a",
   "lastOpenFiles": [
+    "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/CS_ Prototyper et tester les composantes d'un ENA.md",
     "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/DOC_Paquette, G. (2002). _Modélisation des connaissances et des compétences __Un langage graphique pour concevoir et apprendre. Presses de l’Université du Québec..md",
     "2_ Références/0_ Références bibliographiques/Références biblio (longues)/DOC_ Paquette G 2002 Modélisation des connaissances et des compétences PUQ.md",
-    "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/CS_ Prototyper et tester les composantes d'un ENA.md",
     "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/CS_ Outils d'instrumentation pour la méthode MIENA.md",
     "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Prototyper et tester les composantes d'un ENA.md",
     "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Implantation d'un environnement numérique d'apprentissage (ENA) 2.md",
