@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Implantation d'un environnement numérique d'apprentissage (ENA) 2.md",
-                "mode": "preview",
+                "file": "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Prototyper et tester les composantes d'un ENA.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CS_ Implantation d'un environnement numérique d'apprentissage (ENA) 2"
-            }
-          },
-          {
-            "id": "09f0cf8d650ee4c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Implantation d'un environnement numérique d'apprentissage (ENA).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CS_ Implantation d'un environnement numérique d'apprentissage (ENA)"
+              "title": "CS_ Prototyper et tester les composantes d'un ENA"
             }
           }
         ]
@@ -240,8 +216,8 @@
   },
   "active": "ad2f8da720455a0a",
   "lastOpenFiles": [
-    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Implantation d'un environnement numérique d'apprentissage (ENA).md",
     "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Implantation d'un environnement numérique d'apprentissage (ENA) 2.md",
+    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Implantation d'un environnement numérique d'apprentissage (ENA).md",
     "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes (Permanent Notes)/Liste des connaissances/SF_ I6_ Élaborer le plan d'implantation matérielle.md",
     "100-Nouvelles notes/Sans titre 2.md",
     "100-Nouvelles notes/Sans titre 1.md",
