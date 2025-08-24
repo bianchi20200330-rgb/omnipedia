@@ -1,0 +1,25 @@
+# Comment Écrire Un Roman
+
+![rw-book-cover](https://m.media-amazon.com/images/I/413sUbYzsvL._SY160.jpg)
+
+## Metadata
+- Author: [[Anaël Verdier]]
+- Full Title: Comment Écrire Un Roman
+- Category: #books
+
+## Highlights
+- Les 4 piliers de l’écriture ([Location 108](https://readwise.io/to_kindle?action=open&asin=B008M36RDQ&location=108))
+- 1. Savoir structurer un récit: les ([Location 112](https://readwise.io/to_kindle?action=open&asin=B008M36RDQ&location=112))
+- 2. Savoir créer des personnages intéressants ([Location 118](https://readwise.io/to_kindle?action=open&asin=B008M36RDQ&location=118))
+- 3. Savoir maîtriser sa créativité: de nombreux ([Location 123](https://readwise.io/to_kindle?action=open&asin=B008M36RDQ&location=123))
+- 4. Savoir vaincre les obstacles: ([Location 128](https://readwise.io/to_kindle?action=open&asin=B008M36RDQ&location=128))
+- Les 7 Étapes qui précèdent l’écriture d’un livre ([Location 136](https://readwise.io/to_kindle?action=open&asin=B008M36RDQ&location=136))
+- Étapes pour préparer l’écriture d’un livre ([Location 142](https://readwise.io/to_kindle?action=open&asin=B008M36RDQ&location=142))
+    - Note: 7 etapes
+- C.R.É.A.T.I.F. ([Location 144](https://readwise.io/to_kindle?action=open&asin=B008M36RDQ&location=144))
+- CHOISIR une idée. Une idée peut consister en un personnage que vous voulez voir évoluer, ou une situation autour de laquelle vous voulez construire une histoire. Ce peut être un sujet que vous souhaitez traiter ou un univers que vous avez envie de développer. L’idée part de vous, de vos envies du moment et de vos moteurs internes. RENDRE l’univers de votre histoire plus concret. Votre idée vous donnera, par association, l’univers que vous souhaitez développer, c’est-à-dire le contexte, le microcosme dans lequel se déroulera votre histoire. Définissez-le dans les grandes lignes. ÉLABORER le plan du récit. Quand vous savez de quoi vous allez parler et que vous avez amassé suffisamment de matière pour remplir un livre entier, il faut passer à l’acte et élaborer le plan succinct de votre histoire, afin de vous assurer qu’elle tienne bien la route et qu’elle puisse vous intéresser sur le long terme. ASSIGNER des personnages aux rôles. Votre plan aura révélé un certain nombre de rôles phares nécessaires au bon déroulement de votre récit. Ces rôles sont pour l’instant abstraits et purement mécaniques. Pour leur donner vie, vous devez leur attribuer des personnages uniques. C’est l’étape où vous définissez les grandes lignes de leur caractère et où vous déterminez leur singularité. TRANSFORMER les idées en pages d’écriture. Vous avez votre plan, vos personnages, votre univers, il ne vous reste qu’à dérouler l’ensemble sur deux à cinq pages. Restez concis. N’entrez pas dans trop de détails. Ce que vous cherchez à faire avec le synopsis, c’est mettre en lumière les difficultés portées par votre histoire. Écrivez d’une seule traite ou en plusieurs fois, ce qui compte c’est que vous alliez au bout. INTERPRÉTER les symptômes de blocages futurs. Pendant que vous écrivez votre synopsis, notez chaque fois où vous perdez votre concentration, où vous décidez soudainement d’aller vérifier vos emails. Après l’écriture, relisez votre synopsis et surlignez toutes les incohérences que vous trouvez, et tous les passages qui vous semblent bancals. Vous avez mis le doigt sur les éléments de votre histoire qui vous donneront le plus de fil à retordre. FAITES le point avec vous-même. En entrant de plein pied dans l’écriture, vous avez pu constater la différence colossale entre vos intentions et ce que vous avez écrit. Vous avez pu sentir l’ambiance de votre univers et tester l’intérêt que vous portez à votre histoire. Vous avez une bonne idée des points faibles de votre projet et des efforts que vous aurez à fournir pour les combler. C’est le moment de vous demander si vous voulez continuer ou abandonner. Mieux vaut vous arrêter après seulement 12 heures de travail et partir sur une nouvelle idée, que de vous lancer pour 3 ou 4 mois sur un projet qui ne vous enthousiasme déjà plus. ([Location 145](https://readwise.io/to_kindle?action=open&asin=B008M36RDQ&location=145))
+- Processus hebdomadaire d’écriture ([Location 169](https://readwise.io/to_kindle?action=open&asin=B008M36RDQ&location=169))
+- C’est là qu’entre Tony Buzan, qui a imaginé la technique de la carte heuristique, ou carte mentale. ([Location 333](https://readwise.io/to_kindle?action=open&asin=B008M36RDQ&location=333))
+- EXERCICE Prenez au moins quinze minutes pour élaborer chacune de ces cartes puis dix à quinze minutes toutes les deux semaines, pour les mettre à jour et les compléter. Carte #1. Ce que vous aimez ([Location 360](https://readwise.io/to_kindle?action=open&asin=B008M36RDQ&location=360))
+    - Note: carte mentale
+- demandez peut-être quels critères utiliser pour juger de l’intérêt d’une idée. Dans cette formation, je vous donnerai tous les outils pour identifier cela. ([Location 455](https://readwise.io/to_kindle?action=open&asin=B008M36RDQ&location=455))

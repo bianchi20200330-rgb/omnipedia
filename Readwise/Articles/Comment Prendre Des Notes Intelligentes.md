@@ -1,0 +1,93 @@
+# Comment Prendre Des Notes Intelligentes
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/media/reader/parsed_document_assets/126790313/frvL-90-vWwZEaDkZ-ltKFnrZfAxXSlqfoU6tsfw1E4-cove_5InHeJX.png)
+
+## Metadata
+- Author: [[Sönke Ahrens]]
+- Full Title: Comment Prendre Des Notes Intelligentes
+- Category: #articles
+- Document Note: 15. Objectifs et
+- Summary: Taking intelligent notes can lead to increased comfort and enjoyment in writing, as well as sustainable learning and the generation of new ideas. This article explores the importance of note-taking and provides tips for effective note-taking, drawing on the experiences of successful sociologists and researchers. It emphasizes the need for selectivity in note-taking, the importance of creating connections between ideas, and the value of feedback in the writing process. The article also discusses the concept of the "filing box" as a tool for organizing and expanding upon notes.
+- URL: https://readwise.io/reader/document_raw_content/126790313
+
+## Highlights
+- Ce livre aide les étudiants et les professionnels à développer leurs capacités d’apprentissage, à pousser leur réflexion et à produire plus facilement des contenus ([View Highlight](https://read.readwise.io/read/01jv0f6cnj8ecg2wc7r0n3rfk5))
+    - Tags: [[#test]] 
+    - Note: Note test
+- réfléchir, comprendre et développer de nouvelles idées. ([View Highlight](https://read.readwise.io/read/01jv0fyrxrpwkgcvp04ys4je6s))
+    - Tags: [[#test2]] 
+    - Note: Mote 2
+- es étudiants écrivent, les professeurs écrivent. Et bien entendu, les essayistes et autres auteurs de « non-fiction », troisième groupe de lecteurs aux- quels ce livre est destiné, ([View Highlight](https://read.readwise.io/read/01jv0heq5m6bkr836vgj0n67mj))
+- pour progresser vraiment, il faut améliorer l’organisation de toute l’écriture. ([View Highlight](https://read.readwise.io/read/01jv0hk3rmtm7p8xq3x08tjqm9))
+    - Note: 4. **Compétences procédurales**
+- rédaction proprement dite est la plus petite partie de la mise au point d’une argumentation. ([View Highlight](https://read.readwise.io/read/01jv0hv0e3fwwzewth6cszrx8a))
+- Ce qui fait vrai- ment la différence sur tout le spectre de l’intelligence est autre chose : le degré d’aut ([View Highlight](https://read.readwise.io/read/01jv0j900cd4qrc2bkzynt40dd))
+- le degré d’autodiscipline ou de maîtrise de soi déployé à l’égard des tâches requises ([View Highlight](https://read.readwise.io/read/01jv0j8hyxcyh43rwx480dkm8c))
+- la maîtrise de soi et l’autodiscipline dépendent bien plus du contexte que de soi-même ([View Highlight](https://read.readwise.io/read/01jv0jbekanzm2sdesfvkwqwdw))
+- ’organisation de l’écriture et de la prise de notes. ([View Highlight](https://read.readwise.io/read/01jv0jddcap61k89g1ex7pfmea))
+- vous pouvez faire confiance au système ([View Highlight](https://read.readwise.io/read/01jv0jhyfamantygghmm1rfkw2))
+- , il n’est plus nécessaire de chercher à faire tout tenir ensemble dans votre tête ([View Highlight](https://read.readwise.io/read/01jv0jjjw9tsedys09bqcvym3t))
+- e contenu, l’argumentation et les idées. ([View Highlight](https://read.readwise.io/read/01jv0jk2ystn7ycn491kmdczp3))
+- . Le défi est d’organiser son flux de tâches de telle manière que les éclairages et les nouvelles idées deviennent des forces motrices. ([View Highlight](https://read.readwise.io/read/01jv0jqc1sbcmdt2r75zn1rs87))
+    - Note: 13. **Enjeux**
+- apprendre de manière à acquérir de vraies connaissances, à les accumuler et à faire naître de nouvelles idées. ([View Highlight](https://read.readwise.io/read/01jv0jtbnra685ka2a022jeb9q))
+    - Note: 15. **Buts / Objectifs**
+- Les bons étudiants, en revanche, ne cessent de relever la barre car ils se concentrent sur ce qu’ils n’ont pas encore appris et ne maîtrisent pas encore ([View Highlight](https://read.readwise.io/read/01jv0k0av8wgcba0ggykbddpnq))
+- réunir des réflexions, mais aussi d’établir des connexions et de faire jaillir de nouvelles idées. ([View Highlight](https://read.readwise.io/read/01jv0kan0q423jm0sn5995jk6p))
+- simple boîte à fiches ([View Highlight](https://read.readwise.io/read/01jv0kd377jvfgdz9k8zhxtvce))
+    - Note: 1. **Connaissances conceptuelles**
+- Il existe des outils numériques pour les principaux systèmes d’exploitation ([View Highlight](https://read.readwise.io/read/01jv0kkw3f0k7sspwyvv6k3ja4))
+- tout changement de comportement, changer d’habitudes de travail oblige à p ([View Highlight](https://read.readwise.io/read/01jv0krpdetbbyy45watrjp3m2))
+- n flux de tâches global ([View Highlight](https://read.readwise.io/read/01jv0kttbprka5e02842qddbbj))
+- David Allen dans S’organiser pour réussir : la méthode GTD ou l’art de l’efficacité sans stress (Allen, 2021). ([View Highlight](https://read.readwise.io/read/01jv0kv33ywfp04f40ym1dhpg3))
+- méthode GTD1, ([View Highlight](https://read.readwise.io/read/01jv0mjv14283tfft2ypekwr0p))
+- : le secret d’une organisation fructueuse réside dans une perspective holis- tique. Il faut veiller à tout pour éviter que des morceaux négligés ne deviennent dérangeants au point de rendre urgentes des tâches subal- ternes. Les meilleurs outils sont inefficaces s’ils sont utilisés isolément. ([View Highlight](https://read.readwise.io/read/01jv0n8fdjck11pk9mf13vrc8a))
+- vous devez pouvoir vous fier à votre système, savoir que tout est vraiment bordé, pour que votre cerveau se laisse aller et vous permette de vous concentrer sur votre tâche. ([View Highlight](https://read.readwise.io/read/01jv0n9be3057j45g1rv163a7k))
+- LA BOÎTE À FICHES ([View Highlight](https://read.readwise.io/read/01jv0naknvhvr5d7kbfs8kddgf))
+- Il s’agit d’avoir les bons outils et de savoir les utiliser. Or, très peu de gens comprennent que les deux sont nécessaires. ([View Highlight](https://read.readwise.io/read/01jv0nr1yahgsncp6489sxhhgy))
+- avantages de la boîte à fiches et des routines de travail de Luhmann ([View Highlight](https://read.readwise.io/read/01jv0nvte1an8sxadc4f11cv6v))
+- MODE D’EMPLOI DE LA BOÎTE À FICHES ([View Highlight](https://read.readwise.io/read/01jv0nyma3azz7afqvnk7t7c61))
+- Chaque fois qu’il ajoutait une note, il recherchait dans sa boîte à fiches d’autres notes auxquelles il pourrait la relier. ([View Highlight](https://read.readwise.io/read/01jv0pe3h05sf2a6sa74sy439h))
+- Il est possible aussi d’ajouter un lien sur cette note ou sur une autre, susceptible de se trouver n’importe où dans le système. ([View Highlight](https://read.readwise.io/read/01jv0pk6wqqpnst5xg2n8t2g7c))
+- Le dernier élément de son système était un index, qui renvoyait à une ou deux notes fonctionnant comme une sorte de point d’entrée vers un sujet ou un fil de réflexion. ([View Highlight](https://read.readwise.io/read/01jv0pp6hzfnj248b61avxxk69))
+- comment l’utiliser. Le meilleur moyen pour cela est d’en savoir un peu plus sur la manière dont on réfléchit, on apprend et on développe des idées. ([View Highlight](https://read.readwise.io/read/01jv0pqz5qfe26zz87nzjqprmr))
+- o ([View Highlight](https://read.readwise.io/read/01jv0prqy2cd0z1fnmb09ckr4e))
+- comment un article s’écrit avec la boîte à fiches. ([View Highlight](https://read.readwise.io/read/01jv0q068yhxkn684wx1e9vcwh))
+- Et puis, le gros travail n’est pas la rédaction des notes. C’est de réfléchir. De lire. De comprendre et de trouver des idées. ([View Highlight](https://read.readwise.io/read/01jv0q634p93hamhw4yzy60gym))
+- Écrire accroît ses chances de comprendre ce qu’on lit, de retenir ce ([View Highlight](https://read.readwise.io/read/01jv0q8a3xc9ztt0ys4h36shdm))
+- qu’on apprend et de mettre ses idées en ordre. ([View Highlight](https://read.readwise.io/read/01jv0q8eqddcjp1fnx9fspjp26))
+- Réfléchir, lire, apprendre, comprendre et trouver des idées est le tra- vail principal de quiconque étudie, cherche ou écrit. Si l’on écrit pour améliorer ces activités, on bénéficie d’un fort vent arrière ([View Highlight](https://read.readwise.io/read/01jv0q9s5ek4nfz77h5tbe2bvd))
+- Prenez des notes volantes. ([View Highlight](https://read.readwise.io/read/01jv0qcdax02eq4899np3236jd))
+- . Établissez des fiches de lecture ([View Highlight](https://read.readwise.io/read/01jv0qffkd6pz1xctdzh2m1brp))
+- Conservez ces fiches, avec les détails bibliographiques, dans un endroit unique : votre système de référence. ([View Highlight](https://read.readwise.io/read/01jv0qppymmsz6rvhmctkbzqrv))
+- 3. Établissez des fiches permanentes. ([View Highlight](https://read.readwise.io/read/01jv0qkf8n5vf77sy6qtg3q182))
+- notes volantes et fiches de lecture rédigées dans les étapes 1 ou 2 ( ([View Highlight](https://read.readwise.io/read/01jv0qsbk7jbkbfa0hkjcm7kb8))
+- demandez-vous en quoi elles se rapportent à ce qui concerne vos recherches, vos réflexions ou vos centres d’intérêt. ([View Highlight](https://read.readwise.io/read/01jv0qr4k5z8z76462q75y6zkc))
+- L’idée n’est pas de rassembler des idées, arguments et expo- sés, mais de les développer. Les nouvelles informations viennent- elles contredire, soutenir ou augmenter ce que vous avez déjà (dans la boîte à fiches ou dans votre esprit) ? Pouvez-vous associer des idées pour parvenir à quelque chose de nouveau ? Quelles ques- tions soulèvent-elles ? ([View Highlight](https://read.readwise.io/read/01jv0qvn2wrpfb3j95vdaxy3jp))
+- ajoutez vos notes définitives à la boîte à fiches : • en classant chacune d’elles derrière une ou plusieurs notes apparentées ([View Highlight](https://read.readwise.io/read/01jv0qzc4metf4mgwj1ceq9j69))
+- ajoutant des liens aux notes apparentées ; ([View Highlight](https://read.readwise.io/read/01jv0qzs8rp0bgffxp2g75mmpk))
+- pouvoir retrouver cette note plus tard grâce à un lien placé soit dans votre index soit dans une note qui vous sert de point d’entrée vers un exposé ou un sujet et qui fait l’objet d’un lien dans l’index. ([View Highlight](https://read.readwise.io/read/01jv0r206mwdxfay98hsv01n50))
+- Développez vos sujets, questions et projets de recherche du bas vers le haut depuis l’intérieur du système. ([View Highlight](https://read.readwise.io/read/01jv0r518v5sppk4s0zprnmq1t))
+- Au bout d’un moment, vous aurez mené des idées assez loin pour choisir un sujet sur lequel écrire. ([View Highlight](https://read.readwise.io/read/01jv0r6r1bqa97xazgf6k7sxhd))
+- Transformez vos notes en brouillon. ([View Highlight](https://read.readwise.io/read/01jv0r84r189qq1nc459qhty20))
+- es. Détectez les failles de votre argumentaire, comblez-les ou change ([View Highlight](https://read.readwise.io/read/01jv0r8f2jryt0v5fj6nzpceym))
+- . Mettez en forme et corrigez votre texte. ([View Highlight](https://read.readwise.io/read/01jv0r8e0kp8kqt4x1tvkbe9s8))
+- Peut- être faites-vous erreur mais il pourrait quand même contenir des pen- sées intéressantes qu’il serait bon de conserver et qui pourraient servir à autre chose, à quoi vous n’avez pas encore pensé. ([View Highlight](https://read.readwise.io/read/01jv0ra523whjgxrm5t251v2vx))
+- De fait, nous n’avons besoin pour réfléchir que d’un cerveau non dispersé et d’un ensemble de notes fiable ([View Highlight](https://read.readwise.io/read/01jv0te2k41ayrm79sx5wxw5q0))
+- LA BOÎTE À FICHES Quatre outils sont nécessaires : • quelque chose avec quoi écrire et quelque chose sur quoi écrire (un crayon et du papier feront l’affaire) ; • un système de gestion de références (Zotero, Citavi ou tout autre à votre convenance) ; • la boîte à fiches (papier ou numérique) ; • un traitement de texte (Word, LaTeX, Google Docs ou tout autre à votre convenance). ([View Highlight](https://read.readwise.io/read/01jv0thda34czhrzz4j4p5g5fa))
+- moyen de saisir vos idées quels que soient le moment et le lieu où elles éclosent dans votre tête ([View Highlight](https://read.readwise.io/read/01jv0tjzsp7a54bh954dvtd7gj))
+- Le système de référence répond à deux objectifs : collecter les réfé- rences (quelle surprise !) et les notes prises au cours de vos lec- tures. ([View Highlight](https://read.readwise.io/read/01jv0tp64bsyqcy60f9k6brbcx))
+- . La boîte à fiches. ([View Highlight](https://read.readwise.io/read/01jv0tvrmvxfsw95m0w08srh5x))
+- Ce qui n’implique pas pour autant de passer plus de temps à écrire au détriment de tout le reste. ([View Highlight](https://read.readwise.io/read/01jv0v8mhvy4hwe1pb3ez089ph))
+- Pour atteindre une masse critique, il est crucial de distinguer claire- ment trois types de notes : 1. Les notes éphémères, simples rappels d’informations rédigés sans souci de forme et qui finiront à la corbeille d’ici un jour ou deux. 2. Les notes permanentes, qui ne seront jamais jetées et qui contiennent les informations nécessaires d’une manière perpétuellement com- préhensible. Elles sont toujours rangées de la même manière au même endroit, soit sous forme de fiches de lecture dans le système de référence, soit sous forme de notes rédigées comme en vue d’une publication dans la boîte à fiches.
+  3. Les notes de projet, qui ne se rapportent qu’à un projet particu- lier. Elles sont conservées dans un classeur consacré à celui-ci et peuvent être éliminées ou archivées après son achèvement. ([View Highlight](https://read.readwise.io/read/01jv0w5rtcrr4xypb2s3m8pxb1))
+- La deuxième erreur classique est de ne collecter que des notes en rapport avec des projets spécifiques. ([View Highlight](https://read.readwise.io/read/01jv0w4acbg31a7nm0a35ntay1))
+- La troisième erreur classique est bien sûr de traiter toutes les notes comme des notes éphémères. ([View Highlight](https://read.readwise.io/read/01jv0w4h38a4xj1r6b6j6gw8e3))
+- Au contraire des notes éphémères, toutes les notes permanentes de la boîte à fiches sont suffisamment détaillées pour être intégrées à un texte écrit final, ou l’inspirer, ([View Highlight](https://read.readwise.io/read/01jv0w959vyh1t1cs52gwxsyqx))
+- mmentaires sur un manuscrit ; ([View Highlight](https://read.readwise.io/read/01jv0wb45dp98wzrq73wgqj8zg))
+- (ou dans une archive, la corbeille des indécis). Les notes relatives à un projet peuvent être : • des commentaires sur un manuscrit ; ([View Highlight](https://read.readwise.io/read/01jv0wbrqj9n795gj0ksskypj3))
+- • des commentaires sur un manuscrit ; • ([View Highlight](https://read.readwise.io/read/01jv0wabfkvk414gq9tbx47ae3))
+- • des e ([View Highlight](https://read.readwise.io/read/01jv0wb1x30md7pv284p2xf49v))
+- • des commentaires sur un manuscrit ; • des ensembles de textes en rapport avec le projet ; • ([View Highlight](https://read.readwise.io/read/01jv0wagqhzjd807p67jfvkw11))
+- • des ensembles de textes en rapport avec le projet ; • des schémas ; • d ([View Highlight](https://read.readwise.io/read/01jv0wa7a46c0shj3n31f08ge9))
+- • des commentaires sur un manuscrit ; • des ensembles de textes en rapport avec le projet ; • des schémas ; • des fragments de brouillon ; • des rappels ; • des listes de choses à faire ; • et bien sûr le brouillon lui-même. ([View Highlight](https://read.readwise.io/read/01jv0was2va6w6h70c75tg83zt))

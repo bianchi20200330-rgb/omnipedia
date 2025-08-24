@@ -1,0 +1,26 @@
+---
+titre: 
+type_objet: concept
+type_connaissance: conceptuelle
+liens:
+  - cible: [[Nom de la note liée]]
+    type_lien: 
+    commentaire: 
+tags: []
+auteur: Normand Bianchi
+date: 2025-07-19
+description: 
+domaine_de_competence:
+  - cognitif
+---
+
+# {{titre}}
+
+## 📌 Description
+{{description}}
+
+## 🔗 Liens typés
+- [[Nom de la note]] → [[type_lien]] → [[Note cible]]
+
+## 🧠 Notes complémentaires
+...
