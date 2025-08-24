@@ -125,7 +125,7 @@ Cette compétence générale regroupe plusieurs **compétences spécifiques**, c
 ### - [[3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_Adapter la pédagogie aux profils des apprenants (MIENA)]]
 
 
-### - [[3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Développer et utiliser de manière appropriée les outils d’instrumentation disponibles pour soutenir les étapes, les cycles et la documentation de la méthode MIENA, à l’intention des personnes utilisant la MIENA]]
+### - [[CS_ Outils d'instrumentation pour la méthode MIENA]]
 
 
 
