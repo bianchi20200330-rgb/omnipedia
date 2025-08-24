@@ -101,7 +101,7 @@ Cette compétence générale regroupe plusieurs **compétences spécifiques**, c
 --------------------------------------------------------------------
 
 
-### - [[CS_ Adapter la méthode MIENA aux besoins particuliers d’un projet éducatif en fonction du contexte, du public cible et des finalités spécifiques (EIA, CLOM, diversité culturelle)]]
+### - [[CS_ Adapter la méthode MIENA aux projets éducatifs]]
 
 
 ### - [[CS_Spécialisation_MIENA_Spécialiser la MIENA pour concevoir un Environnement d’Apprentissage Intelligent (EIA)]]

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Conception CLOM pour autonomie apprenants.md",
-                "mode": "preview",
+                "file": "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Adapter la méthode MIENA aux projets éducatifs.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "COMP_ Conception CLOM pour autonomie apprenants"
+              "title": "CS_ Adapter la méthode MIENA aux projets éducatifs"
             }
           }
         ]
@@ -216,8 +216,8 @@
   },
   "active": "ad2f8da720455a0a",
   "lastOpenFiles": [
-    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Adapter la MIENA, en vue de concevoir un CLOM (MOOC) aligné sur les besoins d’apprentissage autonomes des apprenants.md",
     "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Conception CLOM pour autonomie apprenants.md",
+    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Adapter la MIENA, en vue de concevoir un CLOM (MOOC) aligné sur les besoins d’apprentissage autonomes des apprenants.md",
     "2_ Références/0_ Références bibliographiques/TDM (Tables des matières)/TDM_ Paquette et al 2022_ Chap14_ Architecture d’une nouvelle méthode d’ingénierie des ENA _ MIENA.md",
     "2_ Références/0_ Références bibliographiques/Références biblio (longues)/DOC_ Laberge, M. (2024). _Dix jours_. Productions Marie Laberge inc..md",
     "2_ Références/0_ Références bibliographiques/Références bibliographiques (courtes)/DOC_ Laberge M 2024.md",
@@ -228,7 +228,7 @@
     "98_Mots-clés +abréviations/ENA.md",
     "102-Manuel d'instruction Construction du site/Page web.md",
     "102-Manuel d'instruction Construction du site/Sans titre.md",
-    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Adapter la méthode MIENA aux besoins particuliers d’un projet éducatif en fonction du contexte, du public cible et des finalités spécifiques (EIA, CLOM, diversité culturelle).md",
+    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Adapter la méthode MIENA aux projets éducatifs.md",
     "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Concevoir, développer et implanter un Environnement Numérique d’Apprentissage (ENA) à l’aide de la méthode MIENA.md",
     "5_Littérature (romans, nouvelles, poésie, etc.)/INDEX_ dix jours_ Marie Roberge _Fiche de lecture.md",
     "95-Modèles OBSIDIAN/MOD_ Gabarit_universel_Note_PRINCIPALE_Obsidian.md",
