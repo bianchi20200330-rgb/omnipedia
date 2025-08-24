@@ -16,7 +16,7 @@ parent: "[[COMP_ Concevoir, développer et implanter un Environnement Numérique
 child: []
 related: []
 sibling:
-  - "[[3_Documents d'apprentissage/3.3-Connaissances Notes permanentes (Permanent Notes)/Liste des connaissances/CS_Prototyper et tester les composantes d’un ENA à l’aide de maquettes horizontales et verticales afin de valider les choix pédagogiques, médiatiques et fonctionnels_MIENA]]"
+  - "[[3_Documents d'apprentissage/3.3-Connaissances Notes permanentes (Permanent Notes)/Liste des connaissances/CS_ Prototyper et tester les composantes d'un ENA]]"
 source: "[[DOC_ Paquette et al 2022_Chap14_Architecture d'une nouvelle méthode d'ingénierie des ENA_ MIENA]]"
 summary: Utiliser les informations sur les profils des apprenants pour prendre des décisions de conception éclairées et adapter la structure, les scénarios et les activités de l'ENA.
 ---

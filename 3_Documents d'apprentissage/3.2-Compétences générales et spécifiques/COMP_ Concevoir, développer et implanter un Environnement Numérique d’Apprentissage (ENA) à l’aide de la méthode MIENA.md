@@ -119,7 +119,7 @@ Cette compétence générale regroupe plusieurs **compétences spécifiques**, c
 ### [[3_Documents d'apprentissage/3.3-Connaissances Notes permanentes (Permanent Notes)/Liste des connaissances/CS_ Personnalisation des travaux autour de la MIENA|CS_ Personnalisation des travaux autour de la MIENA]] 
 
 
-### - [[CS_ Prototyper et tester les composantes d'un ENA]]
+### - [[3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Prototyper et tester les composantes d'un ENA]]
 
 
 ### - [[3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_Adapter la pédagogie aux profils des apprenants (MIENA)]]
