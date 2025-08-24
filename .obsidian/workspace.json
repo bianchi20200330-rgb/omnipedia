@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "04185fc6fb3c284e",
+        "id": "6a4439975079a8c8",
         "type": "tabs",
         "children": [
           {
-            "id": "ad2f8da720455a0a",
+            "id": "9a511291aa058ea5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Notes préliminaires (auteur du site, Fleeting Notes)/0-test 2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "0-test 2"
+              "title": "Nouvel onglet"
             }
           }
         ]
@@ -214,14 +200,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ad2f8da720455a0a",
+  "active": "9a511291aa058ea5",
   "lastOpenFiles": [
+    "1-Notes préliminaires (auteur du site, Fleeting Notes)/0  test 3.md",
+    "1-Notes préliminaires (auteur du site, Fleeting Notes)/0 test Sans titre.md",
+    "1-Notes préliminaires (auteur du site, Fleeting Notes)/0-test 2.md",
     "100-Nouvelles notes/Sans titre 2.base",
     "100-Nouvelles notes/Sans titre 1.base",
     "Sans titre 1.canvas",
     "100-Nouvelles notes/Sans titre.base",
-    "1-Notes préliminaires (auteur du site, Fleeting Notes)/0-test 2.md",
-    "1-Notes préliminaires (auteur du site, Fleeting Notes)/0 test Sans titre.md",
     "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/SF_ Spécialiser MIENA pour les EIA.md",
     "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/CS_ Prototyper et tester les composantes d'un ENA.md",
     "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/DOC_Paquette, G. (2002). _Modélisation des connaissances et des compétences __Un langage graphique pour concevoir et apprendre. Presses de l’Université du Québec..md",
@@ -257,7 +244,6 @@
     "96-Images et PDF/TABLEAU 14.5 Grille de sélection des activités de l’axe d’implantation.pdf",
     "96-Images et PDF/TABLEAU 14.4 Grille de sélection des activités de l’axe médiatique.pdf",
     "96-Images et PDF/TABLEAU 14.3 Grille de sélection des activités de l’axe pédagogique.pdf",
-    "96-Images et PDF/TABLEAU 14.2 Grille de sélection des activités de l’axe des connaissances et des.pdf",
     "96-Images et PDF/Schema_type_objet_vs_type_connaissance.png",
     "96-Images et PDF/Pasted image 20250712094634.png",
     "96-Images et PDF/Pasted image 20250712092942.png",
