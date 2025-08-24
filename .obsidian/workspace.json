@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2_ Références/0_ Références bibliographiques/TDM (Tables des matières)/TDM_ Paquette et al 2022_ Chap14_ Architecture d’une nouvelle méthode d’ingénierie des ENA _ MIENA.md",
-                "mode": "source",
+                "file": "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Conception CLOM pour autonomie apprenants.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "TDM_ Paquette et al 2022_ Chap14_ Architecture d’une nouvelle méthode d’ingénierie des ENA _ MIENA"
+              "title": "COMP_ Conception CLOM pour autonomie apprenants"
             }
           }
         ]
@@ -216,6 +216,9 @@
   },
   "active": "ad2f8da720455a0a",
   "lastOpenFiles": [
+    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Adapter la MIENA, en vue de concevoir un CLOM (MOOC) aligné sur les besoins d’apprentissage autonomes des apprenants.md",
+    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Conception CLOM pour autonomie apprenants.md",
+    "2_ Références/0_ Références bibliographiques/TDM (Tables des matières)/TDM_ Paquette et al 2022_ Chap14_ Architecture d’une nouvelle méthode d’ingénierie des ENA _ MIENA.md",
     "2_ Références/0_ Références bibliographiques/Références biblio (longues)/DOC_ Laberge, M. (2024). _Dix jours_. Productions Marie Laberge inc..md",
     "2_ Références/0_ Références bibliographiques/Références bibliographiques (courtes)/DOC_ Laberge M 2024.md",
     "2_ Références/0_ Références bibliographiques/Références biblio (longues)/DOC_Ahrens Sönke 2022 Comment prendre des notes intelligentes.md",
@@ -227,8 +230,6 @@
     "102-Manuel d'instruction Construction du site/Sans titre.md",
     "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Adapter la méthode MIENA aux besoins particuliers d’un projet éducatif en fonction du contexte, du public cible et des finalités spécifiques (EIA, CLOM, diversité culturelle).md",
     "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Concevoir, développer et implanter un Environnement Numérique d’Apprentissage (ENA) à l’aide de la méthode MIENA.md",
-    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Analyser les spécificités du modèle éducatif des CLOM afin d'adapter une démarche de conception qui favorise l'autonomie et la persévérance des apprenants.md",
-    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Adapter la MIENA, en vue de concevoir un CLOM (MOOC) aligné sur les besoins d’apprentissage autonomes des apprenants.md",
     "5_Littérature (romans, nouvelles, poésie, etc.)/INDEX_ dix jours_ Marie Roberge _Fiche de lecture.md",
     "95-Modèles OBSIDIAN/MOD_ Gabarit_universel_Note_PRINCIPALE_Obsidian.md",
     "3_Documents d'apprentissage/0 -INDEX_ TYPES DE CONNAISSANCES/0- MOD Types (15) de connaissances. Pour quoi.md",
@@ -241,7 +242,6 @@
     "2_ Références/0_ Références bibliographiques/Références bibliographiques (courtes)/DOC_ Paquette 2002.md",
     "95-Modèles OBSIDIAN/SF_ YAML pr omnipedia.club.md",
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/CONC_ Jardin cognitif.md",
-    "100-Nouvelles notes/MOC - Maîtriser GitHub pour Publier son Jardin Cognitif.md",
     "2_ Références/0_ Références bibliographiques/Bibliographie NB.pdf",
     "2_ Références/0_ Références bibliographiques/Z- INDEX_ des Références biblio",
     "2_ Références/0_ Références bibliographiques/TDM (Tables des matières)/TDM_ L'ingénierie pédagogique_pour construire l'apprentissage en réseau_Paquette 2002.pdf",

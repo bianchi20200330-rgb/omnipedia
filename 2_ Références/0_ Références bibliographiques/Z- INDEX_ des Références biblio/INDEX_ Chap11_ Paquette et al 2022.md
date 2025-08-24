@@ -26,7 +26,7 @@ Cette note est un index ou une **Carte de Contenu (MOC)** qui recense de manièr
 
 ---
 # Compétence générale
-# [[COMP_ Analyser les spécificités du modèle éducatif des CLOM afin d'adapter une démarche de conception qui favorise l'autonomie et la persévérance des apprenants]] 
+# [[COMP_ Conception CLOM pour autonomie apprenants]] 
 
 (voir compétences spécifiques et savoirs faire)
 
