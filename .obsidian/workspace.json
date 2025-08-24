@@ -1,0 +1,270 @@
+{
+  "main": {
+    "id": "dce8ab0dc0068781",
+    "type": "split",
+    "children": [
+      {
+        "id": "04185fc6fb3c284e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad2f8da720455a0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Adapter la méthode MIENA aux besoins particuliers d’un projet éducatif en fonction du contexte, du public cible et des finalités spécifiques (EIA, CLOM, diversité culturelle).md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CS_ Adapter la méthode MIENA aux besoins particuliers d’un projet éducatif en fonction du contexte, du public cible et des finalités spécifiques (EIA, CLOM, diversité culturelle)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "698d799e152adeba",
+    "type": "split",
+    "children": [
+      {
+        "id": "ba4fc192a068b79e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "713ab64871f5d9f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorateur de fichiers"
+            }
+          },
+          {
+            "id": "b6786e71c04a6845",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#mort",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Rechercher"
+            }
+          },
+          {
+            "id": "82d5ec25c97f9832",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Signet"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391.5041847229004
+  },
+  "right": {
+    "id": "9e2e2ca772bb5311",
+    "type": "split",
+    "children": [
+      {
+        "id": "6027573c7725261e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "da5a4bf4542c1119",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1-Notes préliminaires_Notes éphémères (Fleeting Notes)/Chap 11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rétrolien pour Chap 11"
+            }
+          },
+          {
+            "id": "c489afec997370d1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "4_Manuels scolaires (textes pour apprentissage)/3-Compétences générales et spécifiques/CS_ Analyser les besoins d’apprentissage et les contextes d’implantation_MIENA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Liens sortants de CS_ Analyser les besoins d’apprentissage et les contextes d’implantation_MIENA"
+            }
+          },
+          {
+            "id": "22b333bbca43d820",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "4_Manuels scolaires (textes pour apprentissage)/3-Compétences générales et spécifiques/CS_ Analyser les besoins d’apprentissage et les contextes d’implantation_MIENA.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Plan de CS_ Analyser les besoins d’apprentissage et les contextes d’implantation_MIENA"
+            }
+          },
+          {
+            "id": "02e308cf2757f3aa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": "mort"
+              },
+              "icon": "lucide-tags",
+              "title": "Mots-clés"
+            }
+          },
+          {
+            "id": "76fee9ae0bb62dac",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "06c50c4aac4a7f01",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "da1ca7fc9e359c02",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 325.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false,
+      "templater-obsidian:Templater": false,
+      "publish:Publier les modifications": false,
+      "juggl:Juggl global graph": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "ad2f8da720455a0a",
+  "lastOpenFiles": [
+    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Concevoir, développer et implanter un Environnement Numérique d’Apprentissage (ENA) à l’aide de la méthode MIENA.md",
+    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Analyser les spécificités du modèle éducatif des CLOM afin d'adapter une démarche de conception qui favorise l'autonomie et la persévérance des apprenants.md",
+    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Adapter la MIENA, en vue de concevoir un CLOM (MOOC) aligné sur les besoins d’apprentissage autonomes des apprenants.md",
+    "5_Littérature (romans, nouvelles, poésie, etc.)/INDEX_ dix jours_ Marie Roberge _Fiche de lecture.md",
+    "95-Modèles OBSIDIAN/MOD_ Gabarit_universel_Note_PRINCIPALE_Obsidian.md",
+    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Adapter la méthode MIENA aux besoins particuliers d’un projet éducatif en fonction du contexte, du public cible et des finalités spécifiques (EIA, CLOM, diversité culturelle).md",
+    "3_Documents d'apprentissage/0 -INDEX_ TYPES DE CONNAISSANCES/0- MOD Types (15) de connaissances. Pour quoi.md",
+    "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_Ahrens Sönke 2022 Comment prendre des notes intelligentes Une technique simple pour booster l'écriture, l'apprentissage et la créativité. Paris Éditions Eyrolles..md",
+    "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Paquette, G. (2025b, juillet 31).  « Le Québec doit résister fermement à la pression du Canada pétrolier ». Le Devoir, 31 juillet 2025..md",
+    "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Paquette Gilbert _Modélisation des connaissances et des compétences_ un langage graphique pour concevoir et apprendre_ Presses de l’Université du Québec 2002.md",
+    "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Paquette et al 2022_Chap14_Architecture d'une nouvelle méthode d'ingénierie des environnements numériques d'apprentissage_ MIENA.md",
+    "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Paquette et al 2022_Chap11_Comprendre les  CLOM _ Repères pour aborder leur conception.md",
+    "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Paquette et al 2022_Apprendre et enseigner sur le WEB Quelle ingénierie pédagogique_.md",
+    "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Paquette 2002_L'ingénierie pédagogique_ pour construire l'apprentissage en réseau.md",
+    "95-Modèles OBSIDIAN/SF_ YAML pr omnipedia.education.md",
+    "2_ Références/0_ Références bibliographiques/Références bibliographiques (courtes)/DOC_ Paquette et al 2022.md",
+    "2_ Références/0_ Références bibliographiques/Références bibliographiques (courtes)/DOC_ Paquette 2002b.md",
+    "2_ Références/0_ Références bibliographiques/Références bibliographiques (courtes)/DOC_ Roberge M 2024.md",
+    "2_ Références/0_ Références bibliographiques/Références bibliographiques (courtes)/DOC_ Paquette 2002.md",
+    "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Laberge, M. (2024). _Dix jours_. Productions Marie Laberge inc..md",
+    "95-Modèles OBSIDIAN/SF_ YAML pr omnipedia.club.md",
+    "1-Notes préliminaires (auteur du site, Fleeting Notes)/CONC_ Jardin cognitif.md",
+    "100-Nouvelles notes/MOC - Maîtriser GitHub pour Publier son Jardin Cognitif.md",
+    "102-Manuel d'instruction Construction du site/SF_ Mots-clés ds la fiche de lecture.md",
+    "100-Nouvelles notes/Sans titre 1.md",
+    "5_Littérature (romans, nouvelles, poésie, etc.)/INDEX_ dix jours_ Marie Roberge_ selon la typologie des connaissances NBianchi.md",
+    "2_ Références/0_ Références bibliographiques/Bibliographie NB.pdf",
+    "2_ Références/0_ Références bibliographiques/Z- INDEX_ des Références biblio",
+    "2_ Références/0_ Références bibliographiques/TDM (Tables des matières)/TDM_ L'ingénierie pédagogique_pour construire l'apprentissage en réseau_Paquette 2002.pdf",
+    "Pasted image 20250810193559.png",
+    "Pasted image 20250810193533.png",
+    "96-Images et PDF/Pasted image 20250711155144.png",
+    "96-Images et PDF/Pasted image 20250711160819.png",
+    "96-Images et PDF/Pasted image 20250712095043.png",
+    "96-Images et PDF/Savoirs_faire_Objectifs_selection.pdf",
+    "96-Images et PDF/TABLEAU 14.5 Grille de sélection des activités de l’axe d’implantation.pdf",
+    "96-Images et PDF/TABLEAU 14.4 Grille de sélection des activités de l’axe médiatique.pdf",
+    "96-Images et PDF/TABLEAU 14.3 Grille de sélection des activités de l’axe pédagogique.pdf",
+    "96-Images et PDF/TABLEAU 14.2 Grille de sélection des activités de l’axe des connaissances et des.pdf",
+    "96-Images et PDF/Tableau 14.1  GrilleTableau 14.1  Grille de sélection des activités de gestion de projet de sélection des activités de gestion de projet.pdf",
+    "96-Images et PDF/Schema_type_objet_vs_type_connaissance.png",
+    "96-Images et PDF/Pasted image 20250712094634.png",
+    "96-Images et PDF/Pasted image 20250712092942.png",
+    "96-Images et PDF/Pasted image 20250712092135.png",
+    "96-Images et PDF/MISA image 20250703191329.png",
+    "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes (Permanent Notes)/Liste des connaissances/MOD_ Typologies de MISA.pdf",
+    "Sans titre.canvas",
+    "Sans titre 1.canvas",
+    "7-Notes de projet (Project Note)/test.canvas",
+    "Sans titre 2.canvas"
+  ]
+}

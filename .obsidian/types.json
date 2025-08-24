@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "liens": "multitext",
+    "Domaine de compétence": "multitext",
+    "type_objet": "text",
+    "related": "multitext"
+  }
+}
