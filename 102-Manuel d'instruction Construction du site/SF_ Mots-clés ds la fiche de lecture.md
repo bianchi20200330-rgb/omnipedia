@@ -1,0 +1,1 @@
+En résumé, concentrez-vous sur les sections **Personnages**, **Thèmes**, et **Analyse Technique de la Forme**. C'est là que les mots-clés de section vous apporteront le plus de valeur pour organiser et retrouver vos analyses.

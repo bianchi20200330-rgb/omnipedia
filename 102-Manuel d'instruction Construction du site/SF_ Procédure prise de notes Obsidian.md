@@ -1,0 +1,26 @@
+
+- Choisir un manuel
+    - fiche référence biblio longue
+    - fiche réf biblio courte
+    - fiche TDM: MOD_Titre du livre
+    - fiche Glossaire du livre
+- Choisir un chap
+     - fiche TDM: MOD_Titre du chap
+- Faire une fiche temporaire, ex. CHAP11     
+     - avec **compétence générale** recherchée ds le texte, **compétences spécifiques** et **savoirs-faire** (habiletés)  et **notions reliées**
+- Fiche COMP_titre de la comp générale
+     - mot clé
+     - ajouter les comp spéc sur la fiche
+- Fiches CS_titre de la compétence spécifique
+     - mot clé
+     - ajouter savoirs faire sur ch fiche CS 
+     - et  notions reliées
+- Fiches SF (savoirs faire)
+     - Description
+     - Notions reliées
+- Lire le texte pr y inventorier les notions importantes selon la typologie NB
+- Faire une fiche pour ch notion
+     - mot clé
+     - description
+     - Voir modèle de référence
+
