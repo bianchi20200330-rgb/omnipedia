@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/SF_ Spécialiser MIENA pour les EIA.md",
+                "file": "1-Notes préliminaires (auteur du site, Fleeting Notes)/0-test 2.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SF_ Spécialiser MIENA pour les EIA"
+              "title": "0-test 2"
             }
           }
         ]
@@ -216,6 +216,13 @@
   },
   "active": "ad2f8da720455a0a",
   "lastOpenFiles": [
+    "100-Nouvelles notes/Sans titre 2.base",
+    "100-Nouvelles notes/Sans titre 1.base",
+    "Sans titre 1.canvas",
+    "100-Nouvelles notes/Sans titre.base",
+    "1-Notes préliminaires (auteur du site, Fleeting Notes)/0-test 2.md",
+    "1-Notes préliminaires (auteur du site, Fleeting Notes)/0 test Sans titre.md",
+    "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/SF_ Spécialiser MIENA pour les EIA.md",
     "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/CS_ Prototyper et tester les composantes d'un ENA.md",
     "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/DOC_Paquette, G. (2002). _Modélisation des connaissances et des compétences __Un langage graphique pour concevoir et apprendre. Presses de l’Université du Québec..md",
     "2_ Références/0_ Références bibliographiques/Références biblio (longues)/DOC_ Paquette G 2002 Modélisation des connaissances et des compétences PUQ.md",
@@ -238,10 +245,6 @@
     "2_ Références/0_ Références bibliographiques/Références biblio (longues)/DOC_ Paquette et al 2022_Chap14_Architecture d'une nouvelle méthode d'ingénierie des ENA_ MIENA.md",
     "98_Mots-clés +abréviations/ENA.md",
     "102-Manuel d'instruction Construction du site/Page web.md",
-    "102-Manuel d'instruction Construction du site/Sans titre.md",
-    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Concevoir, développer et implanter un Environnement Numérique d’Apprentissage (ENA) à l’aide de la méthode MIENA.md",
-    "5_Littérature (romans, nouvelles, poésie, etc.)/INDEX_ dix jours_ Marie Roberge _Fiche de lecture.md",
-    "95-Modèles OBSIDIAN/MOD_ Gabarit_universel_Note_PRINCIPALE_Obsidian.md",
     "2_ Références/0_ Références bibliographiques/Bibliographie NB.pdf",
     "2_ Références/0_ Références bibliographiques/Z- INDEX_ des Références biblio",
     "2_ Références/0_ Références bibliographiques/TDM (Tables des matières)/TDM_ L'ingénierie pédagogique_pour construire l'apprentissage en réseau_Paquette 2002.pdf",
@@ -255,15 +258,12 @@
     "96-Images et PDF/TABLEAU 14.4 Grille de sélection des activités de l’axe médiatique.pdf",
     "96-Images et PDF/TABLEAU 14.3 Grille de sélection des activités de l’axe pédagogique.pdf",
     "96-Images et PDF/TABLEAU 14.2 Grille de sélection des activités de l’axe des connaissances et des.pdf",
-    "96-Images et PDF/Tableau 14.1  GrilleTableau 14.1  Grille de sélection des activités de gestion de projet de sélection des activités de gestion de projet.pdf",
     "96-Images et PDF/Schema_type_objet_vs_type_connaissance.png",
     "96-Images et PDF/Pasted image 20250712094634.png",
     "96-Images et PDF/Pasted image 20250712092942.png",
     "96-Images et PDF/Pasted image 20250712092135.png",
     "96-Images et PDF/MISA image 20250703191329.png",
-    "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/MOD_ Typologies de MISA.pdf",
     "Sans titre.canvas",
-    "Sans titre 1.canvas",
     "7-Notes de projet (Project Note)/test.canvas",
     "Sans titre 2.canvas"
   ]
