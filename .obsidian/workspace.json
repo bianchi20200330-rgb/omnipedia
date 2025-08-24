@@ -13,9 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Implantation d'un environnement numérique d'apprentissage (ENA).md",
+                "file": "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Implantation d'un environnement numérique d'apprentissage (ENA) 2.md",
                 "mode": "preview",
                 "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CS_ Implantation d'un environnement numérique d'apprentissage (ENA) 2"
+            }
+          },
+          {
+            "id": "09f0cf8d650ee4c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Implantation d'un environnement numérique d'apprentissage (ENA).md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -63,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ENA",
+                "query": "CS_ Implantation d'un environnement numérique d'apprentissage (ENA)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -216,8 +240,12 @@
   },
   "active": "ad2f8da720455a0a",
   "lastOpenFiles": [
-    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Outils d'instrumentation pour la méthode MIENA.md",
     "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Implantation d'un environnement numérique d'apprentissage (ENA).md",
+    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Implantation d'un environnement numérique d'apprentissage (ENA) 2.md",
+    "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes (Permanent Notes)/Liste des connaissances/SF_ I6_ Élaborer le plan d'implantation matérielle.md",
+    "100-Nouvelles notes/Sans titre 2.md",
+    "100-Nouvelles notes/Sans titre 1.md",
+    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Outils d'instrumentation pour la méthode MIENA.md",
     "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Adapter la méthode MIENA aux projets éducatifs.md",
     "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Conception CLOM pour autonomie apprenants.md",
     "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Adapter la MIENA, en vue de concevoir un CLOM (MOOC) aligné sur les besoins d’apprentissage autonomes des apprenants.md",
@@ -238,10 +266,6 @@
     "2_ Références/0_ Références bibliographiques/Références biblio (longues)/DOC_ Paquette et al 2022_Chap11_Comprendre les  CLOM _ Repères pour aborder leur conception.md",
     "2_ Références/0_ Références bibliographiques/Références biblio (longues)/DOC_ Paquette et al 2022_Apprendre et enseigner sur le WEB Quelle ingénierie pédagogique_.md",
     "2_ Références/0_ Références bibliographiques/Références biblio (longues)/DOC_ Paquette 2002_L'ingénierie pédagogique_ pour construire l'apprentissage en réseau.md",
-    "95-Modèles OBSIDIAN/SF_ YAML pr omnipedia.education.md",
-    "2_ Références/0_ Références bibliographiques/Références bibliographiques (courtes)/DOC_ Paquette et al 2022.md",
-    "2_ Références/0_ Références bibliographiques/Références bibliographiques (courtes)/DOC_ Paquette 2002b.md",
-    "2_ Références/0_ Références bibliographiques/Références bibliographiques (courtes)/DOC_ Paquette 2002.md",
     "2_ Références/0_ Références bibliographiques/Bibliographie NB.pdf",
     "2_ Références/0_ Références bibliographiques/Z- INDEX_ des Références biblio",
     "2_ Références/0_ Références bibliographiques/TDM (Tables des matières)/TDM_ L'ingénierie pédagogique_pour construire l'apprentissage en réseau_Paquette 2002.pdf",

@@ -93,7 +93,7 @@ Cette compétence générale regroupe plusieurs **compétences spécifiques**, c
 
 
 #axe/implantation_MIENA 
-### - [[CS_Planifier et coordonner l’implantation d’un environnement numérique d’apprentissage (ENA) dans un contexte institutionnel ou individuel donné]]
+### - [[CS_ Implantation d'un environnement numérique d'apprentissage (ENA) 2]]
 
 
 
