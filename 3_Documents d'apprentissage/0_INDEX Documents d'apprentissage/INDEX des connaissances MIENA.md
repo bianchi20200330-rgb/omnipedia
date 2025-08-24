@@ -104,7 +104,7 @@ Cette note recense l'ensemble des connaissances non procédurales (Modèles, Con
 ---
 ### **Enjeux (ENJEU)**
 
-- [[3_Documents d'apprentissage/3.3-Connaissances Notes permanentes (Permanent Notes)/Liste des connaissances/ENJEU_ Personnalisation de l'apprentissage|ENJEU_ Personnalisation de l'apprentissage]]   
+- [[ENJEU_ Personnalisation de l'apprentissage|ENJEU_ Personnalisation de l'apprentissage]]   
     - *Définition :* Le défi de créer des parcours d'apprentissage adaptés à chaque individu, auquel répond la spécialisation EIA.
 - **[[ENJEU_ Apprentissage autonome à grande échelle]]**
     - *Définition :* Le défi de soutenir des milliers d'apprenants sans tutorat direct, auquel répond la spécialisation CLOM.
