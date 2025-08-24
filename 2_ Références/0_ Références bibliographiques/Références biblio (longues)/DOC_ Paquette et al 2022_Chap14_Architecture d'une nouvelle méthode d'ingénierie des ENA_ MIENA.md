@@ -7,7 +7,7 @@ publish_to: education
 
 # Table des matières
 
-# [[TDM_ Paquette et al 2022_ Chap14_ Architecture d’une nouvelle méthode d’ingénierie des environnements numériques d’apprentissage _ MIENA]] 
+# [[TDM_ Paquette et al 2022_ Chap14_ Architecture d’une nouvelle méthode d’ingénierie des ENA _ MIENA]] 
 
 # INDEX
 

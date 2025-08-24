@@ -175,7 +175,7 @@ Introduction ...................................................................
 3 L’instrumentation de la méthode ..................................................................................................... 547
 Conclusion .............................................................................................................................................. 548
 Références ............................................................................................................................................. 549
-[[TDM_ Paquette et al 2022_ Chap14_ Architecture d’une nouvelle méthode d’ingénierie des environnements numériques d’apprentissage _ MIENA]]
+[[TDM_ Paquette et al 2022_ Chap14_ Architecture d’une nouvelle méthode d’ingénierie des ENA _ MIENA]]
 ## EN GUISE DE CONCLUSION
 
 France Henri • Gilbert Paquette • Josianne Basque
