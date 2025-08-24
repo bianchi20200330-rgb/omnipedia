@@ -27,7 +27,7 @@ child:
   - "[[DOC_ Paquette et al 2022_Chap11_Comprendre les  CLOM _ Repères pour aborder leur conception]]"
   - "[[DOC_ Paquette et al 2022_Chap12_Une ingénierie pédagogique pour des apprentissages autonomes]]"
   - "[[DOC_ Paquette et al 2022_Chap13_Orientations pour renouveler l'ingénierie des ENA]]"
-  - "[[DOC_ Paquette et al 2022_Chap14_Architecture d'une nouvelle méthode d'ingénierie des environnements numériques d'apprentissage_ MIENA]]"
+  - "[[DOC_ Paquette et al 2022_Chap14_Architecture d'une nouvelle méthode d'ingénierie des ENA_ MIENA]]"
 related:
 sibling:
 source: "Paquette, G., Basque, J., & Henri, F. (dir.). (2022). *Apprendre et enseigner sur le Web: quelle ingénierie pédagogique?*. Presses de l'Université du Québec."

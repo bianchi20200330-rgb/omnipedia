@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "102-Manuel d'instruction Construction du site/Page web.md",
-                "mode": "preview",
+                "file": "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Paquette et al 2022_Chap14_Architecture d'une nouvelle méthode d'ingénierie des ENA_ MIENA.md",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Page web"
+              "title": "DOC_ Paquette et al 2022_Chap14_Architecture d'une nouvelle méthode d'ingénierie des ENA_ MIENA"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GitHub",
+                "query": "tag:#ENA",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +84,7 @@
               "title": "Signet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +155,7 @@
                 "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": true,
-                "searchQuery": "mort"
+                "searchQuery": "En"
               },
               "icon": "lucide-tags",
               "title": "Mots-clés"
@@ -215,8 +214,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b6786e71c04a6845",
+  "active": "ad2f8da720455a0a",
   "lastOpenFiles": [
+    "98_Mots-clés +abréviations/ENA.md",
+    "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Paquette et al 2022_Chap14_Architecture d'une nouvelle méthode d'ingénierie des ENA_ MIENA.md",
+    "102-Manuel d'instruction Construction du site/Page web.md",
     "102-Manuel d'instruction Construction du site/Sans titre.md",
     "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Adapter la méthode MIENA aux besoins particuliers d’un projet éducatif en fonction du contexte, du public cible et des finalités spécifiques (EIA, CLOM, diversité culturelle).md",
     "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/COMP_ Concevoir, développer et implanter un Environnement Numérique d’Apprentissage (ENA) à l’aide de la méthode MIENA.md",
@@ -228,7 +230,6 @@
     "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_Ahrens Sönke 2022 Comment prendre des notes intelligentes Une technique simple pour booster l'écriture, l'apprentissage et la créativité. Paris Éditions Eyrolles..md",
     "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Paquette, G. (2025b, juillet 31).  « Le Québec doit résister fermement à la pression du Canada pétrolier ». Le Devoir, 31 juillet 2025..md",
     "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Paquette Gilbert _Modélisation des connaissances et des compétences_ un langage graphique pour concevoir et apprendre_ Presses de l’Université du Québec 2002.md",
-    "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Paquette et al 2022_Chap14_Architecture d'une nouvelle méthode d'ingénierie des environnements numériques d'apprentissage_ MIENA.md",
     "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Paquette et al 2022_Chap11_Comprendre les  CLOM _ Repères pour aborder leur conception.md",
     "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Paquette et al 2022_Apprendre et enseigner sur le WEB Quelle ingénierie pédagogique_.md",
     "2_ Références/0_ Références bibliographiques/Références bibliographiques (longues)/DOC_ Paquette 2002_L'ingénierie pédagogique_ pour construire l'apprentissage en réseau.md",
@@ -241,8 +242,6 @@
     "95-Modèles OBSIDIAN/SF_ YAML pr omnipedia.club.md",
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/CONC_ Jardin cognitif.md",
     "100-Nouvelles notes/MOC - Maîtriser GitHub pour Publier son Jardin Cognitif.md",
-    "102-Manuel d'instruction Construction du site/SF_ Mots-clés ds la fiche de lecture.md",
-    "100-Nouvelles notes/Sans titre 1.md",
     "2_ Références/0_ Références bibliographiques/Bibliographie NB.pdf",
     "2_ Références/0_ Références bibliographiques/Z- INDEX_ des Références biblio",
     "2_ Références/0_ Références bibliographiques/TDM (Tables des matières)/TDM_ L'ingénierie pédagogique_pour construire l'apprentissage en réseau_Paquette 2002.pdf",
