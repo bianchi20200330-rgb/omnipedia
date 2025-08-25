@@ -282,52 +282,19 @@
         "y": 12,
         "width": 1024,
         "height": 800,
-        "maximize": true,
-        "zoom": -0.5
-      },
-      {
-        "id": "cdac977a98cba038",
-        "type": "window",
-        "children": [
-          {
-            "id": "2f928a8f1274aa82",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "bc9911a176d5901a",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://dg-docs.ole.dev/getting-started/01-getting-started/",
-                    "title": "01 Getting started",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "01 Getting started"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 256,
-        "y": 12,
-        "width": 1024,
-        "height": 800,
         "maximize": false,
         "zoom": -0.5
       }
     ]
   },
-  "active": "5d07e149edfe0d35",
+  "active": "213bc9b5c7d3647c",
   "lastOpenFiles": [
+    "1-Notes préliminaires (auteur du site, Fleeting Notes)/0 test7.md",
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/0 test Sans titre.md",
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/0  test 3.md",
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/0 test 6.md",
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/0-test 5.md",
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/0-test 2.md",
-    "1-Notes préliminaires (auteur du site, Fleeting Notes)/0 test7.md",
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/test 4.md",
     "100-Nouvelles notes/Sans titre 2.base",
     "100-Nouvelles notes/Sans titre 1.base",
