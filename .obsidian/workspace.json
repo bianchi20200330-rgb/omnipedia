@@ -249,7 +249,7 @@
         "y": 12,
         "width": 1024,
         "height": 800,
-        "maximize": true,
+        "maximize": false,
         "zoom": -0.5
       },
       {
@@ -289,6 +289,7 @@
   },
   "active": "213bc9b5c7d3647c",
   "lastOpenFiles": [
+    "README.md",
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/0 test7.md",
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/0 test Sans titre.md",
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/0  test 3.md",
@@ -318,7 +319,6 @@
     "2_ Références/0_ Références bibliographiques/TDM (Tables des matières)/TDM_ Paquette et al 2022_ Chap14_ Architecture d’une nouvelle méthode d’ingénierie des ENA _ MIENA.md",
     "2_ Références/0_ Références bibliographiques/Références biblio (longues)/DOC_ Laberge, M. (2024). _Dix jours_. Productions Marie Laberge inc..md",
     "2_ Références/0_ Références bibliographiques/Références bibliographiques (courtes)/DOC_ Laberge M 2024.md",
-    "2_ Références/0_ Références bibliographiques/Références biblio (longues)/DOC_Ahrens Sönke 2022 Comment prendre des notes intelligentes.md",
     "2_ Références/0_ Références bibliographiques/Bibliographie NB.pdf",
     "2_ Références/0_ Références bibliographiques/Z- INDEX_ des Références biblio",
     "2_ Références/0_ Références bibliographiques/TDM (Tables des matières)/TDM_ L'ingénierie pédagogique_pour construire l'apprentissage en réseau_Paquette 2002.pdf",
