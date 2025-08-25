@@ -1,6 +1,6 @@
 ---
 type: promenade
-date: <% tp.date.now("YYYY-MM-DD") %>
+date: 2025-08-25
 lieu: 
 météo: 
 humeur: 
