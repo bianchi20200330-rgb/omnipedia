@@ -1,5 +1,5 @@
 
-# 📋 Tableau de référence des champs YAML pour Excalibrain et Dataview
+# 📋 Tableau  de référence des champs YAML pour Excalibrain et Dataview
 
 Ce tableau résume quels champs sont :
 - ✅ lus par **Excalibrain** pour générer le graphe

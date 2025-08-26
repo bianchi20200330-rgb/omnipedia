@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1d381bf0dc0bbfc",
+        "id": "e80aae24b2070373",
         "type": "tabs",
         "children": [
           {
-            "id": "a2b2adb64949c540",
+            "id": "fee5e68d2600d703",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -201,8 +201,9 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "a2b2adb64949c540",
+  "active": "fee5e68d2600d703",
   "lastOpenFiles": [
+    "102-Manuel d'instruction Construction du site/SF_ Champs YAML.md",
     "102-Manuel d'instruction Construction du site/SF_ Connaissances mobilisées.md",
     "102-Manuel d'instruction Construction du site/SF_ Comment créer des hyperliens internes dans une note Obsidian.md",
     "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/SF_ G0_ Analyser_Profils_Apprenants.md",
@@ -231,7 +232,6 @@
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/0 test 6.md",
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/0-test 5.md",
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/0-test 2.md",
-    "1-Notes préliminaires (auteur du site, Fleeting Notes)/test 4.md",
     "100-Nouvelles notes/Sans titre 2.base",
     "100-Nouvelles notes/Sans titre 1.base",
     "100-Nouvelles notes/Sans titre.base",
