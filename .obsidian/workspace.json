@@ -4,35 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "98e1d470a318d6ad",
+        "id": "63bfc8aad6f0442e",
         "type": "tabs",
         "children": [
           {
-            "id": "5d07e149edfe0d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1-Notes préliminaires (auteur du site, Fleeting Notes)/0 test Sans titre.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "0 test Sans titre"
-            }
-          },
-          {
-            "id": "a6edc12de06a5fd3",
+            "id": "51c7be2e2e692a1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -55,8 +31,7 @@
               "title": "Template_Promenade"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,19 +215,22 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "a6edc12de06a5fd3",
+  "active": "51c7be2e2e692a1f",
   "lastOpenFiles": [
+    "102-Manuel d'instruction Construction du site/Balises_Templater_Obsidian.md",
+    "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/CC organisation cliente.md",
+    "1-Notes préliminaires (auteur du site, Fleeting Notes)/0 test Sans titre.md",
+    "95-Modèles OBSIDIAN/Template_Promenade.md",
+    "100-Nouvelles notes/Sans titre 4.md",
     "95-Modèles OBSIDIAN/MOD_ YAML analyse littéraire (fiction).md",
     "95-Modèles OBSIDIAN/MOD_Note journalière A.md",
     "95-Modèles OBSIDIAN/Modèle de compétence pédagogique (template).md",
     "95-Modèles OBSIDIAN/SF_ YAML pr omnipedia.club.md",
     "95-Modèles OBSIDIAN/SF_ YAML pr omnipedia.education.md",
     "95-Modèles OBSIDIAN/Tableau_de_bord_Atelier_du_promeneur.md",
-    "95-Modèles OBSIDIAN/Template_Promenade.md",
     "95-Modèles OBSIDIAN/MOD_ YALM (frontmatter) xxx.md",
     "95-Modèles OBSIDIAN/MOD_ Gabarit_universel_Note_PRINCIPALE_Obsidian.md",
     "100-Nouvelles notes/Sans titre 3.md",
-    "1-Notes préliminaires (auteur du site, Fleeting Notes)/0 test Sans titre.md",
     "index.html",
     "1-Notes préliminaires (auteur du site, Fleeting Notes)/0 test7.md",
     "README.md",
@@ -270,9 +248,6 @@
     "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/DOC_Paquette, G. (2002). _Modélisation des connaissances et des compétences __Un langage graphique pour concevoir et apprendre. Presses de l’Université du Québec..md",
     "2_ Références/0_ Références bibliographiques/Références biblio (longues)/DOC_ Paquette G 2002 Modélisation des connaissances et des compétences PUQ.md",
     "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/CS_ Outils d'instrumentation pour la méthode MIENA.md",
-    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Prototyper et tester les composantes d'un ENA.md",
-    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Implantation d'un environnement numérique d'apprentissage (ENA) 2.md",
-    "3_Documents d'apprentissage/3.2-Compétences générales et spécifiques/CS_ Implantation d'un environnement numérique d'apprentissage (ENA).md",
     "2_ Références/0_ Références bibliographiques/Bibliographie NB.pdf",
     "2_ Références/0_ Références bibliographiques/Z- INDEX_ des Références biblio",
     "2_ Références/0_ Références bibliographiques/TDM (Tables des matières)/TDM_ L'ingénierie pédagogique_pour construire l'apprentissage en réseau_Paquette 2002.pdf",
