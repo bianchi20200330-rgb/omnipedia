@@ -7,7 +7,7 @@ humeur:
 tags: [promenade, réflexion, nature]
 ---
 
-# 🧭 Promenade du <% tp.date.now("YYYY-MM-DD") %>
+# 🧭 Promenade  du <% tp.date.now("YYYY-MM-DD") %>
 
 ## 📍 Lieu
 (Ex. : Parc de la Pointe-aux-Prairies)
