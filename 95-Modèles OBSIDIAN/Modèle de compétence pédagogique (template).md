@@ -1,16 +1,4 @@
----
-titre: Nom de la compétence
-type_objet: compétence
-type_connaissance: intégrée
-connaissances_mobilisées:
-  - [[Nom de la connaissance 1]]
-  - [[Nom de la connaissance 2]]
-habiletés:
-  - Description d’une habileté cognitive ou pratique
-  - Une autre habileté spécifique
-contexte: Décrire le contexte d’usage de la compétence (ex. : activité, cours, programme)
-niveau_de_performance: Indiquer le niveau attendu (ex. : débutant, application autonome, expertise)
----
+
 
 # 🧠 Définition
 Décrire ici ce que signifie maîtriser cette compétence, dans tes propres mots.

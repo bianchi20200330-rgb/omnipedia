@@ -1,12 +1,4 @@
----
-titre: SF_ G0_ Analyser_Profils_Apprenants
-type_objet: concept
-type_connaissance: savoir-faire
-description: 
-		Dresser des profils pédagogiques en tenant compte des connaissances antérieures, des styles d’apprentissage, des préférences technologiques et des contextes socioculturels.
-methode: "QQOQCC
 
----
 
 
 - [[COMP_ Concevoir, développer et implanter un Environnement Numérique d’Apprentissage (ENA) à l’aide de la méthode MIENA]]
