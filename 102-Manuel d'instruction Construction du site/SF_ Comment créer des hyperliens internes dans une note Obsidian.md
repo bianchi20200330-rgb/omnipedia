@@ -1,5 +1,5 @@
 
-Voici **comment créer des hyperliens internes dans une note Obsidian** :
+Voici  **comment créer des hyperliens internes dans une note Obsidian** :
 
 ---
 

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ae883830fde495c9",
+        "id": "6151fa1ecbb070cb",
         "type": "tabs",
         "children": [
           {
-            "id": "2d38b618325c2ad6",
+            "id": "efa5a821061b9c33",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -201,8 +201,9 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "2d38b618325c2ad6",
+  "active": "efa5a821061b9c33",
   "lastOpenFiles": [
+    "102-Manuel d'instruction Construction du site/SF_ Comment créer des hyperliens internes dans une note Obsidian.md",
     "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/SF_ G0_ Analyser_Profils_Apprenants.md",
     "Sans titre.canvas",
     "Sans titre 1.canvas",
