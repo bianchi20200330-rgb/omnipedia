@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6151fa1ecbb070cb",
+        "id": "d1d381bf0dc0bbfc",
         "type": "tabs",
         "children": [
           {
-            "id": "efa5a821061b9c33",
+            "id": "a2b2adb64949c540",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -201,8 +201,9 @@
       "digitalgarden:Digital Garden Publication Center": false
     }
   },
-  "active": "efa5a821061b9c33",
+  "active": "a2b2adb64949c540",
   "lastOpenFiles": [
+    "102-Manuel d'instruction Construction du site/SF_ Connaissances mobilisées.md",
     "102-Manuel d'instruction Construction du site/SF_ Comment créer des hyperliens internes dans une note Obsidian.md",
     "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/SF_ G0_ Analyser_Profils_Apprenants.md",
     "Sans titre.canvas",
@@ -234,7 +235,6 @@
     "100-Nouvelles notes/Sans titre 2.base",
     "100-Nouvelles notes/Sans titre 1.base",
     "100-Nouvelles notes/Sans titre.base",
-    "3_Documents d'apprentissage/3.3-Connaissances Notes permanentes/Liste des connaissances/SF_ Spécialiser MIENA pour les EIA.md",
     "2_ Références/0_ Références bibliographiques/Bibliographie NB.pdf",
     "2_ Références/0_ Références bibliographiques/Z- INDEX_ des Références biblio",
     "2_ Références/0_ Références bibliographiques/TDM (Tables des matières)/TDM_ L'ingénierie pédagogique_pour construire l'apprentissage en réseau_Paquette 2002.pdf",
